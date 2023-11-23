@@ -8,6 +8,7 @@
 ![image](https://github.com/Rafhaelslv/DATABASE-EX01_REV/assets/127260453/70f034e0-4379-46a0-9276-9ef604f4b3fa)
 
 Consultar
+
 Nome e sobrenome, como nome completo dos Alunos Matriculados
 
 Rua, nº , Bairro e CEP como Endereço do aluno que não tem telefone
